@@ -1,0 +1,279 @@
+{"id": 0, "sentence": "星期一,斯坦福大學醫學院嘅科學家宣布發明咗一個可以按類型排序細胞嘅新診斷工具 一個細嘅可打印芯片 可以用標準嘅喷墨打印機 製造成一美分鐘", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 1, "sentence": "主要研究員話,呢個可能會令低收入國家嘅病人早期發現癌症,結核病, HIV 同疟疾", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 2, "sentence": "捷運39C Gripen 飛機喺當地時間上午9點30分左右撞上起跑道,爆炸,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 3, "sentence": "飛行員被識別為隊長迪洛克里特帕塔維", "gold": "acceptable", "pred": "acceptable"}
+{"id": 4, "sentence": "地方媒體報導 響應時 機場消防車翻身", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 5, "sentence": "28歲嘅維達爾 喺三個賽季之前從塞維利亞加入巴塞爾", "gold": "acceptable", "pred": "acceptable"}
+{"id": 6, "sentence": "自從佢搬到加泰隆尼亞首都之後, 維達爾為俱樂部打咗 49 場遊戲", "gold": "acceptable", "pred": "acceptable"}
+{"id": 7, "sentence": "抗議活動開始於當地時間11點左右 (UTC+1) 於白宮,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 8, "sentence": "十一點之後 抗議者封鎖咗北方車輛", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 9, "sentence": "11時20分 警方要求示威者返去路面, 表示佢哋需要平衡示威權同交通增加", "gold": "acceptable", "pred": "acceptable"}
+{"id": 10, "sentence": "大概11時29分,抗議者移動到惠特哈爾,過特拉法爾加廣場,沿海沙灘,經過阿爾迪維奇,再上基斯維,前往霍爾本,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 11, "sentence": "納達爾對加拿大隊嘅總數係72.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 12, "sentence": "最近他在布里斯班公开赛中 输了Raonic", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 13, "sentence": "Nadal 喺第一場比賽中獲得 88% 純點", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 14, "sentence": "賽後, Clay King 說:\"我好興奮,因為我回到了最重要嘅賽事嘅最後一輪.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 15, "sentence": "\"巴拿馬文件\"係巴拿馬律師事務所 Mossack Fonseca 十百萬份文件嘅總名詞", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 16, "sentence": "文件顯示有十四間銀行 幫助富有客戶 隱藏數十億美元嘅財富 避免稅收和其他規則", "gold": "acceptable", "pred": "acceptable"}
+{"id": 17, "sentence": "英國報紙The Guardian 指出 德意志銀行控制咗大概三分之一", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 18, "sentence": "全球都有抗議活動 起咗幾起刑事起訴 冰島同巴基斯坦政府嘅領袖都辭職", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 19, "sentence": "佢喺香港出世,讀咗紐約大學同哈佛法學院,曾經擁有美國永久居民嘅\"綠卡\".", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 20, "sentence": "希希喺選舉期間暗示 馬可能喺危機時期逃離國家", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 21, "sentence": "Hsieh 又話光基 Ma 更加有風格而唔係物質", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 22, "sentence": "儘管呢啲指控, Ma 隨便喺一個支持緊密聯繫中國大陸嘅平台上贏得勝利", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 23, "sentence": "今日嘅最佳球員係華盛頓首都隊嘅 Alex Ovechkin", "gold": "acceptable", "pred": "acceptable"}
+{"id": 24, "sentence": "佢喺華盛頓對亞特蘭大戰士嘅5-3勝利中 打咗2個目標同2個助攻", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 25, "sentence": "奧維奇金嘅第一場助攻係新手尼克拉斯 貝克斯特羅姆贏得球嘅目標", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 26, "sentence": "佢喺嗰個賽季打咗第60個球, 成為自1995-96 年之後, 卡羅米爾 傑格同馬里奧 萊米奧 都喺一個賽季打咗 60 個或更多嘅球", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 27, "sentence": "2008 年,巴登喺美國最富有400 個名單上排名第 190 位,估計財富達 23 億美元.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 28, "sentence": "佢喺 1950 年畢業於維吉尼亞大學藝術科學學院,並為該機構做咗重要捐贈.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 29, "sentence": "伊拉克阿布格萊布監獄喺暴動期間被燒起", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 30, "sentence": "美國軍隊接管之後 監獄成為臭名昭著嘅監獄", "gold": "acceptable", "pred": "acceptable"}
+{"id": 31, "sentence": "皮克小弟喺2008年新加坡大獎賽 停車後就撞上車", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 32, "sentence": "當前嘅車輛喺安全車下邊油嘅時候 佢走上車隊", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 33, "sentence": "2009年匈牙利大獎之後,Piquet Jr.被解雇.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 34, "sentence": "正確喺早上8點46分 城市就有沉默 標誌咗第一架飛機撞擊目標嘅時刻", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 35, "sentence": "兩條光線被裝成 針對夜晚嘅天空", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 36, "sentence": "建成五座新嘅摩天大廈 喺呢個遺址上,有交通中心同紀念公園", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 37, "sentence": "PBS節目有超過兩十個艾美獎,而且播放時間比芝麻街同羅杰斯先生的鄰居短.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 38, "sentence": "每個節目都將集中喺特定本書嘅一個主題 然後通過多個故事探索呢個主題", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 39, "sentence": "每個作品都提供咗書籍嘅推薦 兒童去圖書館時應該搵", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 40, "sentence": "John Grant,來自WNED Buffalo (Reading Rainbow嘅本站) 表示\"Reading Rainbow 教咗細路仔點解要讀書,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 41, "sentence": "包括 John Grant 之類嘅人認為 資金危機同教育電視節目哲學嘅改變 都有助於結束呢個系列", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 42, "sentence": "預報者話,呢個風暴喺加布維爾德島西邊 約1040 公里遠嘅地區 可能會消失", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 43, "sentence": "弗雷德目前每小時65公里嘅風力 移向西北", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 44, "sentence": "Fred 係自衛星影像出現之後 迄今為止喺大西洋南部同東部 已經有最強嘅熱帶風暴", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 45, "sentence": "1759 年 9 月 24 日,阿瑟·吉尼斯簽署咗 9,000 年租金合同", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 46, "sentence": "250 年之後,Guinness 已經成為全球企業 每年營銷超過 10 億歐元 (14.7 億美元)", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 47, "sentence": "紐西蘭A1GP隊嘅同司機 Jonny Reid 今日成為咗史上最快嘅司機 通過合法嘅 48 年歷史嘅奧克蘭港橋", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 48, "sentence": "里德先生成功地駕駛咗新西蘭 A1GP 黑色美女車 超過 160 公里/小時嘅速度", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 49, "sentence": "新西蘭警察用速度雷達槍 檢查雷德先生走得多快 因為黑人美女嘅速度低", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 50, "sentence": "過去三個月,超過 80 名被捕嘅人 無法正式起訴", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 51, "sentence": "今年 4 月, 格林法官發出咗暫時停留令 要求釋放被拘留者 超過 24 小時之後 冇接受法院委員審理", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 52, "sentence": "委員會會下令保释 如果被批准 逮捕官員提出嘅指控會正式化", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 53, "sentence": "聽證會亦係指名嫌疑人有權接受快速審理嘅日期", "gold": "acceptable", "pred": "acceptable"}
+{"id": 54, "sentence": "澳洲財務長 Peter Costello 兼最有可能接續 John Howard 首相 成為自由黨領袖嘅人 支持澳洲核電產業", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 55, "sentence": "Costello先生話 當核電產生經濟可行時 澳洲應該繼續利用核電", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 56, "sentence": "\"如果佢成為商業嘅,我哋應該得到佢. 即係,根本冇對核能嘅反對\"", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 57, "sentence": "根據安薩嘅說法, \"警察擔心 兩起高級槍擊案可能會引發一場完整嘅繼承戰爭", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 58, "sentence": "警方話洛皮科羅係因為佢喺帕勒莫做過普羅文森諾嘅右手 而佢有更多經驗 令佢得到老板嘅尊重", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 59, "sentence": "普羅文森諾喺 1992 年 終結咗 里納領導嘅戰爭", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 60, "sentence": "Apple CEO Steve Jobs 通過走上台上 將 iPhone 帶出士口袋", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 61, "sentence": "佢喺佢兩小時嘅演講裏面話:\"今日果會重新發明手機,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 62, "sentence": "巴西係世界上最大嘅羅馬天主教國家 羅馬天主教教會一直都反对喺巴西合法化同性婚姻", "gold": "acceptable", "pred": "acceptable"}
+{"id": 63, "sentence": "巴西國會已經討論合法化 10 年嚟 而呢啲民事婚姻目前只喺里約格蘭德杜蘇爾合法", "gold": "acceptable", "pred": "acceptable"}
+{"id": 64, "sentence": "舊法案由聖保羅市長馬塔·蘇普利西起草 提議嘅立法,經過修正,如今已經掌握在羅伯托·杰斐遜手中", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 65, "sentence": "抗議者希望喺11月份收到一條有120萬簽名嘅請願", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 66, "sentence": "發現好多家庭 尋求法律幫助 嚟應對流離失所之後", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 67, "sentence": "當租客開始分享佢哋經歷嘅嘢 大多數家庭突然意識到 美國政府嘅卡洛琳 威爾遜 偷咗佢哋嘅保險預金", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 68, "sentence": "洛克伍德花園嘅租客相信 可能會有 40 家庭或更多人 面臨流離 因為佢哋知道 OHA 警方也在調查奧克蘭其他公共住宅", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 69, "sentence": "樂隊取消咗馬威戰爭紀念館嘅演出 預計有9000人參加", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 70, "sentence": "樂隊管理公司 HK Management Inc. 冇提供初步理由 樂隊於 9 月 20 日取消活動,但在第二天之前將其歸咎於物流原因.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 71, "sentence": "希臘著名律師 Sakis Kechagioglou 同 George Nikolakopoulos 被判犯貪污同腐败", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 72, "sentence": "希臘法律界嘅大丑闻係因為 判官,律師,律師同律師喺過去幾年犯下嘅非法行為而引起", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 73, "sentence": "幾個星期前, 記者馬基斯·特里安塔菲洛普洛斯喺阿爾法電視台熱門嘅電視節目\"Zoungla\"發表嘅報導後,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 74, "sentence": "另外,最高法官 Evangelos Kalousis 被判犯咗腐败同惡行", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 75, "sentence": "Roberts 絕對拒絕講佢認為生命係幾時開始嘅 一個重要嘅問題 當考慮堕胎嘅道德時 佢話講講講講講可能發生嘅病例嘅細節係冇道德", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 76, "sentence": "但佢又重複咗佢之前嘅說法 Roe v. Wade 係\"國家嘅定律\"", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 77, "sentence": "佢亦話佢相信 Roe 嘅決定依賴嘅隱私權", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 78, "sentence": "Maroochydore 已經喺梯度頂上 距 Noosa 六分之多", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 79, "sentence": "兩岸會喺大半決賽中相遇 諾薩將贏家排隊 11 分", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 80, "sentence": "Maroochydore 打咗 Caboolture 決賽前期", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 81, "sentence": "Hesperonychus elizabethae 係 Dromaeosauridae 家族嘅一種", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 82, "sentence": "呢隻全羽毛,血嘅獵物 據信行直喺兩隻腳上", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 83, "sentence": "第二個爪子更大,因此得到了名字Hesperonychus,意思係\"西爪\".", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 84, "sentence": "除咗破碎冰之外 極端天氣都阻礙救援工作", "gold": "acceptable", "pred": "acceptable"}
+{"id": 85, "sentence": "皮特曼話,到下一個星期之前情況會好啲", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 86, "sentence": "皮特曼話 冰箱嘅量同厚度 係過去 15 年內 封印工人最差嘅", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 87, "sentence": "今日喺紅湖社區傳播消息 響 Jeff Weise 嘅葬禮上 九個受害者中有三個 被逮捕", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 88, "sentence": "官員官方除咗確認今日逮捕之外 冇話得知", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 89, "sentence": "但一位知情人士對調查嘅消息 告訴明尼阿波利斯星球報 佢係紅湖部落主席弗洛伊德·喬爾登嘅 16 歲兒子", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 90, "sentence": "目前尚無明 該案將會起咩罪 還是有咩原因 導致政府逮捕男仔", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 91, "sentence": "洛丁亦話官員決定取消第二輪選舉 避免阿富汗人再選一次嘅安全風險", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 92, "sentence": "外交官話,佢哋發現阿富汗憲法有足夠嘅曖昧性 令佢哋認為第二次選舉唔必要", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 93, "sentence": "呢個同以前嘅報告相反", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 94, "sentence": "飛機往伊爾庫茨克而定 而由內部軍隊運作", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 95, "sentence": "調查開始", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 96, "sentence": "伊-76 自 1970 年代開始 成為俄羅斯同蘇聯軍隊嘅重要部份", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 97, "sentence": "10月7日,一台引擎離升時 斷裂,無傷害.俄羅斯在事故之後暫時停地 Il-76", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 98, "sentence": "阿拉斯加州法爾班克斯南部 數千桶原油流出之後 跨阿拉斯加管道系統嘅800英里被關閉", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 99, "sentence": "經過火災管制系統經常測試嘅電源故障 令救援閥開通 油油喺9號堡格里站附近溢出", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 100, "sentence": "門開通 令系統釋放壓力 油喺一個上流入一個容量 55,000桶嘅坦克", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 137, "sentence": "魚經常因為毒素濃度高而死亡", "gold": "acceptable", "pred": "acceptable"}
+{"id": 138, "sentence": "人可以受到風和波浪吸入空氣嘅水影響", "gold": "acceptable", "pred": "acceptable"}
+{"id": 140, "sentence": "今日早上,風速係每小時 83 公里左右,", "gold": "acceptable", "pred": "acceptable"}
+{"id": 147, "sentence": "Yahoo!同微軟服務嘅用戶數量將會同 AOL 客戶數量相對", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 665, "sentence": "典型嘅訪問包括飛往奧蘭多國際機場 坐巴士去迪士尼酒店 經過一個星期唔離開迪士尼酒店", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 666, "sentence": "有無限嘅變化可能發生 但大部分人講\"去迪士尼世界\"嘅時候 都係咁", "gold": "acceptable", "pred": "acceptable"}
+{"id": 667, "sentence": "通過 eBay 或者 Craigslist 等拍賣網站 賣嘅好多門票部分係多日嘅公園跳舞門票", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 668, "sentence": "雖然呢個係非常常見嘅活動 但迪士尼禁止: 門票係不可轉換嘅", "gold": "acceptable", "pred": "acceptable"}
+{"id": 669, "sentence": "大峡谷邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊邊", "gold": "acceptable", "pred": "unacceptable"}
+{"id": 670, "sentence": "許可限於保護峡谷 而係開始嘅四個月前嘅月份", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 671, "sentence": "所以,五月份任何開始日期嘅後國許可證", "gold": "acceptable", "pred": "unacceptable"}
+{"id": 672, "sentence": ",最受歡迎嘅區域,例如 鬼牧場附近嘅 Bright Angel Campground, 通常由第一次日期收到嘅要求填充", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 673, "sentence": "限量許可證係由第一人嚟,第一人服務", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 674, "sentence": "乘坐車去南非 係一個好好嘅方法 去睇到呢個地區嘅美麗 同埋去到唔同嘅旅遊路線", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 675, "sentence": "呢個可以喺正常嘅車用,有仔細規劃,但4x4非常建議,而且好多地方只有高輪4x4可以到達.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 676, "sentence": "當你計劃時 記住 雖然南非穩定 但唔係所有鄰近國家都穩定", "gold": "acceptable", "pred": "acceptable"}
+{"id": 677, "sentence": "簽證要求同費用係各國不同,而且會影響你嚟自哪個國家", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 678, "sentence": "每個國家都有獨特嘅法律 要求車內需要有咩急需物品", "gold": "acceptable", "pred": "acceptable"}
+{"id": 679, "sentence": "維多利亞布係津巴布韦西部一個城市 距离尚比亞嘅利文斯頓同博茨瓦納嘅邊界", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 680, "sentence": "城鎮坐落喺布旁邊, 而布係主要嘅景點, 但呢個受歡迎嘅旅遊目的地,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 681, "sentence": "喺雨季 (十一月至三月) 水量會高 而布會更加劇烈", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 682, "sentence": "如果你穿過橋或者走喺布附近嘅道 你肯定會水", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 683, "sentence": "另一方面,因為水量咁高 你睇到真正嘅布就被水遮住咗", "gold": "acceptable", "pred": "acceptable"}
+{"id": 684, "sentence": "KV62 可能係谷內最著名嘅墓地, 霍華德卡特在 1922 年發現年輕王嘅幾乎完整的皇室埋葬.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 685, "sentence": "但相比同其他王室墓地,土坦卡蒙嘅墓幾乎唔值得去去,因為佢比较小,而且裝飾有限.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 686, "sentence": "任何有興趣睇下 嘗試將木乃伊從棺材中拆除時 造成嘅傷害嘅證據 都會失望 因為只有頭部同肩部可以睇到", "gold": "acceptable", "pred": "acceptable"}
+{"id": 687, "sentence": "墓地嘅神奇財富已經唔存在 但已經被移送到開羅嘅埃及博物館", "gold": "acceptable", "pred": "acceptable"}
+{"id": 688, "sentence": "只有有限時間嘅訪客 最好去其他地方度過時間", "gold": "acceptable", "pred": "acceptable"}
+{"id": 689, "sentence": "姆克羅姆,西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西西", "gold": "acceptable", "pred": "unacceptable"}
+{"id": 690, "sentence": "寺嘅黑暗氛圍同爾薩普湖景觀 令到登山值得", "gold": "acceptable", "pred": "acceptable"}
+{"id": 691, "sentence": "參觀呢個地方可以好方便咁組合到去湖泊乘船", "gold": "acceptable", "pred": "acceptable"}
+{"id": 692, "sentence": "進入寺需要安哥爾通道 所以當前往東爾薩普時,請唔忘記帶護照", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 693, "sentence": "耶路撒冷係以色列嘅首都同最大嘅城市 雖然其他國家同聯合國都唔承認耶路撒冷係以色列嘅首都", "gold": "acceptable", "pred": "acceptable"}
+{"id": 694, "sentence": "猶太山脈嘅古城有幾千年歷史", "gold": "acceptable", "pred": "acceptable"}
+{"id": 695, "sentence": "城市係神教嘅三個宗教 - - 猶太教,基督教同伊斯蘭教 - 之聖地,亦係神,宗教同文化中心.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 696, "sentence": "由于城市嘅宗教意義,尤其是舊城區嘅許多遺跡,耶路撒冷係以色列主要的旅遊目的地之一.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 697, "sentence": "耶路撒冷有好多歷史,考古,文化遺跡, 還有充滿人氣嘅商場,咖啡廳,餐廳", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 698, "sentence": "厄瓜多爾要求古巴公民喺國際機場或者邊境入境點入境之前 收到邀請書", "gold": "acceptable", "pred": "acceptable"}
+{"id": 699, "sentence": "呢封信必須由厄瓜多爾外交部合法化,", "gold": "acceptable", "pred": "acceptable"}
+{"id": 700, "sentence": "哩啲要求旨在為兩國提供有組織嘅移民流程", "gold": "acceptable", "pred": "acceptable"}
+{"id": 701, "sentence": "美國綠卡持有人嘅古巴公民應該去厄瓜多爾領事館 獲得免除此要求", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 702, "sentence": "你嘅護照必須喺你出國日期之後至少有6個月有效.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 703, "sentence": "遊覽對較大群體比較便宜 如果你獨自或者同一個朋友一齊 嘗試去認識其他人", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 704, "sentence": "但係,呢個唔應該係你擔心嘅 因為往往觀光客會被混亂填車", "gold": "acceptable", "pred": "unacceptable"}
+{"id": 705, "sentence": "其實,呢個方法好像係騙人相信佢哋要付得多", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 706, "sentence": "塔塔喺馬丘比丘北端 落嘅山頂", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 707, "sentence": "從下面睇起嚟睇起嚟有啲難 但喺最適當嘅人應該可以喺 45 分鐘內爬上", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 708, "sentence": "路面大部分都係石頭階段 而條嘅鋼線係支手道", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 709, "sentence": "預計你會冇呼吸 而且要喺更嘅部分 特別係喺潮時 留意 因為會很快變得危險", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 710, "sentence": "靠近頂部有一座小洞穴 需要經過 很低而且非常緊緊", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 711, "sentence": "觀察加拉帕戈斯島嘅景點同野生動物 最好用船去去,就好似查爾斯·達爾文喺1835年咁", "gold": "acceptable", "pred": "acceptable"}
+{"id": 712, "sentence": "超過 60 艘巡航船 航行加拉帕戈斯海域", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 713, "sentence": "大多數人提前預訂定位 (因為高季度船通常都滿).", "gold": "acceptable", "pred": "acceptable"}
+{"id": 714, "sentence": "確保你預訂嘅代理人係加拉帕戈斯島專家 熟悉各種船只", "gold": "acceptable", "pred": "acceptable"}
+{"id": 715, "sentence": "咁樣就可以確保你對你有特殊嘅興趣同/或限制 符合你最適合嘅船", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 716, "sentence": "喺 16 世紀西班牙人到來之前 智利北部係印加人統治之下 而原住民亞拉烏卡尼亞人 (馬普切人) 居住喺智利中部同南部", "gold": "acceptable", "pred": "acceptable"}
+{"id": 717, "sentence": "瑪普切族係最後一個獨立嘅美國原住民群體 智利獨立之後才完全融入西班牙語嘅統治", "gold": "acceptable", "pred": "acceptable"}
+{"id": 718, "sentence": "雖然智利喺 1810 年宣布獨立 (喺拿破戰爭中,西班牙幾年冇中央政府), 但直到 1818 年才取得咗對西班牙人的決定性勝利.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 719, "sentence": "多米尼加共和國 (西班牙文: República Dominicana) 是加勒比海國家,佔領西班牙羅拉島嘅東半島,同海地共享", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 720, "sentence": "除咗白沙海灘同山地景觀之外,美國最古老嘅歐洲城市亦都喺美國,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 721, "sentence": "島最初由泰諾斯同卡里比人居住.卡里比人係一個阿拉伯語話人,到來喺公元前約10,000年前.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 722, "sentence": "歐洲探險家嚟到之後 幾年內,泰諾斯嘅人口 由西班牙征服者大幅減少", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 723, "sentence": "根據Fray Bartolomé de las Casas (印度戰爭) 寫作 1492 年至 1498 年之間 西班牙征服者殺咗大概 100,000 名泰諾人", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 724, "sentence": "聯盟園.呢個空間係17世紀嘅修道院嘅大廳,其中聖地牙哥寺係唯一存活嘅建築物.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 725, "sentence": "佢宜家係中央廣場 而且日夜都會有好多嘢發生", "gold": "acceptable", "pred": "acceptable"}
+{"id": 726, "sentence": "果園周圍有好多餐廳 午後同晚上 經常喺中央台度舉辦免費演唱會", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 727, "sentence": "Callejon del Beso (吻嘅街道) 兩個隔離只有 69 厘米嘅陽台 係一個老嘅愛情傳說之家", "gold": "acceptable", "pred": "acceptable"}
+{"id": 728, "sentence": "換咗幾分錢 啲細路會話你個故事", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 729, "sentence": "波文島係一個受歡迎嘅一日遊或週末遊覽 提供渡輪,徒步旅行,商店,餐廳等", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 730, "sentence": "呢度真實嘅社區喺溫哥華市郊嘅霍威海峡, 通過從溫哥華市中心嘅格蘭維爾島出發嘅水出租車,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 731, "sentence": "對於愛好戶外活動嘅人嚟講 爬上海到天空走廊係好重要嘅", "gold": "acceptable", "pred": "acceptable"}
+{"id": 732, "sentence": "惠斯勒 (距离温哥華開車1.5個鐘) 昂貴但因2010年冬季奧運而受歡迎", "gold": "acceptable", "pred": "acceptable"}
+{"id": 733, "sentence": "冬天,你可以享受北美最好嘅滑雪 暑假又可以嘗試真正嘅山上單車", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 734, "sentence": "許可證必須提前預訂 你必須有許可喺Sirena度過夜", "gold": "acceptable", "pred": "acceptable"}
+{"id": 735, "sentence": "Sirena 係唯一一個提供宿舍住宿同熱餐嘅護衛站 除露營之外,La Leona,San Pedrillo,Los Patos 都只提供露營,冇提供食物服務.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 736, "sentence": "公園許可證可以直接從 Puerto Jiménez 的 Ranger 站獲得, 但佢哋唔接受信用卡", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 737, "sentence": "公園服務 (MINAE) 預計抵達之前,唔需要超過一個月發出公園許可證.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 738, "sentence": "卡菲網El Sol提供預訂服務 費用為 30 美元,或者 10 美元,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 739, "sentence": "科克群島係一個同新西蘭自由聯繫嘅島國家", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 740, "sentence": "佢係一個群島 擁有 15 個島", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 741, "sentence": "島同夏威夷一樣嘅時間區 有時被認為係\"下面夏威夷\"", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 742, "sentence": "雖然小 但提醒老年人夏威夷之前 冇所有大型旅遊酒店同其他發展", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 743, "sentence": "科克島島冇城市 但由15個唔同島組成.其中主要係拉羅東加同愛圖塔基.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 744, "sentence": "喺發達國家 今日,提供豪華嘅床同早餐已經成為一種藝術品", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 745, "sentence": "果D酒店嘅最高級 當然主要係兩件事: 床包同早餐", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 746, "sentence": "所以,喺最好嘅呢啲店,你會發現最奢華嘅床單,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 747, "sentence": "早餐可能包括當地季節性美味 或者主持人特別嘅菜", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 748, "sentence": "建築物可能係一個有歷史悠久嘅舊建築物 有古董家具,有修飾嘅地形同游泳池", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 749, "sentence": "坐自己車去做漫長嘅公路旅行 簡單性係個吸引力", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 750, "sentence": "唔係大車 你可能已經熟悉駕駛車", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 751, "sentence": "建喺私人物業或者任何大小嘅城市嘅帳 可以引起不需要嘅注意", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 752, "sentence": "簡單嚟講,用你嘅車係好好嘅方法 去出國旅行 但唔常係去\"露營\"嘅方法", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 753, "sentence": "如果你有大型小型車,SUV,塞丹或者站車,坐椅可以搭乘車", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 754, "sentence": "有啲酒店有歷史 來自蒸汽鐵路同海洋航線嘅黃金時代", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 755, "sentence": "呢啲酒店係當時嘅富人和名人住嘅地方", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 756, "sentence": "舊式裝置,缺乏最新設備,以及有趣嘅老化", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 757, "sentence": "雖然呢啲地方通常係私人嘅 但有時會俾國家元首同其他尊貴人嚟訪", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 758, "sentence": "旅行者有好多錢 可能會考慮一班環球飛機", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 759, "sentence": "客房交流網絡係組織 聯繫旅客同佢哋要去嘅城市嘅當地人", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 760, "sentence": "加入呢個網絡通常只需要填寫網上表格", "gold": "acceptable", "pred": "acceptable"}
+{"id": 761, "sentence": "隨後,可用嘅主機列表會喺印刷版或者網路上提供,有時會由其他旅客提供參考和評價.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 762, "sentence": "Couchsurfing 成立於 2004 年 1 月 電腦程式員 Casey Fenton 搵到一架便宜嘅飛機去冰島 但無住宿", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 763, "sentence": "佢寄電郵畀當地大學嘅學生 收到好多免費住宿嘅優惠", "gold": "acceptable", "pred": "acceptable"}
+{"id": 764, "sentence": "宿舍主要為年輕人服務 典型客人已經二十歲了  但你通常會發現老年旅客也在那裡.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 765, "sentence": "有細路嘅家庭係稀有嘅景象 但有啲宿舍可以畀佢哋入住私人房間", "gold": "acceptable", "pred": "acceptable"}
+{"id": 766, "sentence": "中國北京將成為 2022 年冬季奧運主辦城市,", "gold": "acceptable", "pred": "acceptable"}
+{"id": 767, "sentence": "北京會舉辦開幕式,閉幕式 同埋室內冰場活動", "gold": "acceptable", "pred": "acceptable"}
+{"id": 768, "sentence": "其他滑雪活動會喺北京距离約 220 公里嘅張家科 (Zhangjiakou) 的泰齊滑雪場舉辦", "gold": "acceptable", "pred": "acceptable"}
+{"id": 769, "sentence": "大部分寺廟都有年節,從11月底開始到5月中旬, 依據每個寺廟年節日程有所不同.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 770, "sentence": "大部分寺廟節慶 都係寺廟周年慶,主持神嘅生日或者任何有關寺廟嘅重大事件的一部分", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 771, "sentence": "喀拉拉嘅寺廟節係非常有趣嘅, 有經常嘅裝飾大象游行,寺廟樂團和其他節日.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 772, "sentence": "世界博覽會 (通常叫做世界博覽會,或者簡直叫做博覽會) 係一個大型國際藝術科學節.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 773, "sentence": "參與國家喺國家展廳舉辦藝術同教育展覽 展示世界議題或者國家文化同歷史", "gold": "acceptable", "pred": "acceptable"}
+{"id": 774, "sentence": "國際園藝展會係專門活動 展示花園,植物園同埋其他有關植物嘅活動", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 775, "sentence": "雖然理論上會係每年舉辦 (只要喺唔同國家舉辦), 但實際上係唔一樣", "gold": "acceptable", "pred": "acceptable"}
+{"id": 776, "sentence": "經常會喺三到六個月之間 舉辦呢啲活動", "gold": "acceptable", "pred": "acceptable"}
+{"id": 777, "sentence": "多年來,已經用過好多唔同嘅影像格式.標準 35mm影像 (36×24mm負) 係最常見嘅.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 778, "sentence": "通常如果你耗尽就可以很容易補充 并且可以提供同目前DSLR相似的分辨率", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 779, "sentence": "有啲中型影像相機用6x6cm格式,更準確地用56x56mm負", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 780, "sentence": "呢個數據顯示 35 mm 負 (3136 mm2 與 864) 解析度幾乎是四倍", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 781, "sentence": "野生動物係攝影師最具挑戰性嘅動機 佢需要好運,耐心,經驗同好裝備", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 782, "sentence": "野生動物攝影通常被當然接受 但好似一般攝影一樣 一幅相價值一千個字", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 783, "sentence": "野生動物攝影通常需要長遠鏡頭 雖然鳥群或者小生物需要其他鏡頭", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 784, "sentence": "好多異國動物好難搵到 公園有時有規則 禁止商業用攝影", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 785, "sentence": "野生動物可能會害羞或者有侵略性.環境可能會冷,熱,或者其他方式係敵人嘅.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 786, "sentence": "世界上有超過五千種唔同語言 包括有超過二千種語言 有超過五千萬人講", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 787, "sentence": "寫字通常比講話容易理解 尤其對講話嚟講", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 788, "sentence": "好多國家都完全識英文 而且你仲可以期望少人知道英文 尤其喺年輕人", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 789, "sentence": "想像一下,一個曼古尼亞人,波士頓人,牙買加人同悉尼人 坐喺一張餐桌上 坐喺多倫多嘅餐廳食晚飯", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 790, "sentence": "佢哋將佢哋嘅故鄉嘅故事 傳達到唔同嘅口音同當地語法", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 791, "sentence": "買嘢食喺超市通常係最便宜嘅方法 買嘢食", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 792, "sentence": "越來越多嘅超市 已經有多種準備好嘅食物 部分甚至提供微波烤箱或者其他方法供供食暖", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 793, "sentence": "喺某些國家或者商場有至少一個餐廳 經常係一個有價格實惠嘅非正式餐廳", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 794, "sentence": "請將保險保險及保險公司聯絡方式複製", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 795, "sentence": "佢哋需要顯示保險公司嘅電子郵件地址同國際電話號碼 提供諮詢/授權及提出索賠", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 796, "sentence": "隨時放入行李同網上 (附附上嘅電子郵件,或者存放喺\"雲端\"中)", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 797, "sentence": "如果你帶著筆記型電腦或者平板電腦旅行, 存放一張複製喺電腦嘅記憶體或磁盤上 (無需上網就可以使用).", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 798, "sentence": "又畀出政策/聯絡人 聯絡人 同伴同家人同朋友", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 799, "sentence": "(亦稱為鹿) 唔係本质上有侵略性,但如果發現威脅,會自衛.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 800, "sentence": "當人唔認為大象可能危險嘅時候 佢哋可能會靠近大象", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 801, "sentence": "飲酒量適度.酒精影響人人都唔同,知道自己嘅限制非常重要.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 802, "sentence": "飲酒過度可能會造成長時間嘅健康狀況 包括肝臟損傷 甚至盲目甚至死亡", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 803, "sentence": "非法酒精可以含有各種危險污染物 包括甲醇 即使係少量飲食", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 804, "sentence": "眼鏡喺外國可以比較便宜 尤其喺低收入國家 勞動成本比較低", "gold": "acceptable", "pred": "acceptable"}
+{"id": 805, "sentence": "請考慮喺屋企做眼科檢查 尤其當保險有保險", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 806, "sentence": "啲高級品牌架 畀到呢啲地方 可能有兩個問題 有啲可能係破產品 而真正輸入嘅架可能比屋企更貴", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 807, "sentence": "咖啡係世界上最有交易嘅商品之一 你可能喺你屋企有好多種類", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 808, "sentence": "但係全世界有好多唔同嘅飲用方式 值得你試試", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 809, "sentence": "溝 (或:溝) 係要去溝嘅底部,", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 810, "sentence": "道爬行組合泳,爬山同跳水嘅元素 但開始需要相對少嘅訓練或者體力形狀 (比如爬山,潛水或者登山).", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 811, "sentence": "徒步行係一個戶外活動,其中包括喺自然環境度行走,通常喺徒步行道上.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 812, "sentence": "日日徒步行涉及距离不到一英里 到可以在一天内行走的更长距离", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 813, "sentence": "簡單嘅行程需要少少準備 任何適度健康嘅人都可以享受到", "gold": "acceptable", "pred": "acceptable"}
+{"id": 814, "sentence": "家庭有細細路可能需要更多準備 但即使係嬰兒同幼兒 都可以輕鬆喺屋外度度度過一天", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 815, "sentence": "國際上,有近200個行程組織 大部分都獨立運作", "gold": "acceptable", "pred": "acceptable"}
+{"id": 816, "sentence": "全球跑步旅遊嘅後代 Go Running Tours 網絡喺四個大洲嘅數十個景點旅遊服務提供商", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 817, "sentence": "根源於巴塞隆納嘅 Running Tours Barcelona 和哥本哈根嘅 Running Copenhagen, 很快就加入了布拉格嘅 Running Tours Prague 等.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 818, "sentence": "你喺旅行之前同去旅行時,你必須考慮好多嘢", "gold": "acceptable", "pred": "acceptable"}
+{"id": 819, "sentence": "當你去旅行時,你會期望事情唔會好似你\"返屋企\"咁.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 820, "sentence": "請記住呢個問題 避免失望 或者甚至唔喜歡當地人做嘢", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 821, "sentence": "旅行社已經存在自19世紀開始. 旅行社通常係一個好選擇, 旅行者超越過往對自然,文化,語言或者低收入國家嘅經驗.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 822, "sentence": "雖然大部分代理商都願意承擔大部分定期預訂 但好多代理商專注於特定嘅旅行類型,預算範圍或目的地", "gold": "acceptable", "pred": "acceptable"}
+{"id": 823, "sentence": "請請一個經營者去幫你 經常預訂類似你嘅旅行", "gold": "acceptable", "pred": "acceptable"}
+{"id": 824, "sentence": "請睇下代理推廣嘅旅行 請睇下網站或者商店", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 825, "sentence": "如果你想睇世界,用便宜嘅方式, 需要,生活方式或者挑戰,", "gold": "unacceptable", "pred": "unacceptable"}
+{"id": 826, "sentence": "基本上,你可以將呢啲項目分成兩個類別: 工作當你出發時,或者嘗試限制你花費.", "gold": "acceptable", "pred": "acceptable"}
+{"id": 827, "sentence": "對於那些願意犧牲舒適,時間同可預測性 推低成本到近零嘅朋友, 請睇下最低預算旅行", "gold": "acceptable", "pred": "acceptable"}
+{"id": 828, "sentence": "建議係假設旅行者唔偷,入侵,參與非法市場,乞討或者以其他方式利用其他人", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 829, "sentence": "移民管制站通常係從飛機,船或者其他車輛下降時第一站", "gold": "acceptable", "pred": "acceptable"}
+{"id": 830, "sentence": "喺某些跨境火車上,行車上進行檢查 你必須有有效嘅身份證", "gold": "acceptable", "pred": "acceptable"}
+{"id": 831, "sentence": "晚上坐嘅電車上,駕駛員可以收取護照", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 832, "sentence": "簽證係另一個要求.喺某些國家,你必須喺當地政府登記你住所嘅住所.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 833, "sentence": "需要填寫一個當地警察嘅表格 或者去移民局", "gold": "acceptable", "pred": "acceptable"}
+{"id": 834, "sentence": "喺好多有咁嘅法律嘅國家, 地方酒店會處理登記 (請問).", "gold": "acceptable", "pred": "acceptable"}
+{"id": 835, "sentence": "其他情況下,只有住喺旅遊屋外嘅人需要報名.", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 836, "sentence": "建築係有關建築物設計同建設嘅項目 建築物通常係自主觀光景點", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 837, "sentence": "好多建築物都好靚 望住高樓或者有精心擺設嘅窗口可以令你覺得好靚", "gold": "unacceptable", "pred": "acceptable"}
+{"id": 838, "sentence": "建築物同其他領域相重複,包括城市規劃,土木工程,裝飾藝術,室內設計同風景設計", "gold": "acceptable", "pred": "acceptable"}
