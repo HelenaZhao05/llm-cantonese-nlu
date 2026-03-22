@@ -1,0 +1,16 @@
+{
+    "model": "xlmr",
+    "model_name": "xlm-roberta-base",
+    "task": "LAJ",
+    "epochs": 2,
+    "batch_size": 16,
+    "results": {
+        "eval_loss": 0.5607028007507324,
+        "eval_accuracy": 0.7508896797153025,
+        "eval_f1": 0.8577235772357723,
+        "eval_runtime": 3.3693,
+        "eval_samples_per_second": 83.4,
+        "eval_steps_per_second": 5.342,
+        "epoch": 2.0
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "model": "mBERT",
+    "model_name": "bert-base-multilingual-cased",
+    "task": "LAJ",
+    "epochs": 2,
+    "batch_size": 16,
+    "results": {
+        "eval_loss": 0.551005482673645,
+        "eval_accuracy": 0.7508896797153025,
+        "eval_f1": 0.8577235772357723,
+        "eval_runtime": 3.3139,
+        "eval_samples_per_second": 84.794,
+        "eval_steps_per_second": 5.432,
+        "epoch": 2.0
+    }
+}
